@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Github repo
 <br>
-Author - Sumant Sagar
+Author - Sumant Sagar(Wipro)
